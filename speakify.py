@@ -34,7 +34,7 @@ except ImportError:
 
 red = "\u001b[31;1m"
 
-reset = "\u001b[0;1m"
+reset = "\u001b[0m"
 
 green = "\u001b[32;1m"
 
@@ -198,6 +198,12 @@ def main():
 		os.system("clear")
 
 		print(random.choice(list) + "\\")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+		print(random.choice(list) + "|")
 
 		time.sleep(0.1)
 
