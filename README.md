@@ -20,9 +20,9 @@ speakify is a speech to text program
 
 Made by: inc0gnit0
 
-GitHub: [iinc0gnit0](https://github.com/iinc0gnit0/)
+GitHub: [iinc0gnit0](https://github.com/iinc0gnit0)
 
-Instagram: [i.nc0gnit0](https://instagram.com/i.nc0gnit0
+Instagram: [i.nc0gnit0](https://instagram.com/i.nc0gnit0)
 
 Email: iinc0gnit0@pm.me
 
