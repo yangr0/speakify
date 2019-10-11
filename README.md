@@ -16,6 +16,10 @@ speakify is a speech to text program
 
 `git clone https://github.com/iinc0gnit0/speakify && cd speakify && chmod +x * && sudo ./install.sh`
 
+## Usage
+
+`python3 speakify.py`
+
 ## Credits
 
 Made by: inc0gnit0
@@ -26,3 +30,8 @@ Instagram: [i.nc0gnit0](https://instagram.com/i.nc0gnit0)
 
 Email: iinc0gnit0@pm.me
 
+## Updates
+
+### v1.2
+
+- First version of speakify
