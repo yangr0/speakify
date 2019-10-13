@@ -52,6 +52,50 @@ list = ["\u001b[31;1m", "\u001b[32;1m", "\u001b[36;1m", "\u001b[33;1m", "\u001b[
 
 
 
+def loading():
+
+	os.system("clear")
+
+	for x in range(5): # Loading Effect #
+
+		print(random.choice(list) + "|")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+		print(random.choice(list) + "/")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+		print(random.choice(list) + "-")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+		print(random.choice(list) + "\\")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+		print(random.choice(list) + "|")
+
+		time.sleep(0.1)
+
+		os.system("clear")
+
+	print(random.choice(list) + "  speakify is starting")
+
+	time.sleep(3)
+	
+	os.system("clear") # Clear the terminal #
+
+
+
 # BANNER #
 
 def banner():
@@ -181,51 +225,10 @@ def speak():
 
 def main():
 
-	os.system("clear")
-
-	for x in range(5): # Loading Effect #
-
-		print(random.choice(list) + "|")
-
-		time.sleep(0.1)
-
-		os.system("clear")
-
-		print(random.choice(list) + "/")
-
-		time.sleep(0.1)
-
-		os.system("clear")
-
-		print(random.choice(list) + "-")
-
-		time.sleep(0.1)
-
-		os.system("clear")
-
-		print(random.choice(list) + "\\")
-
-		time.sleep(0.1)
-
-		os.system("clear")
-
-		print(random.choice(list) + "|")
-
-		time.sleep(0.1)
-
-		os.system("clear")
-
-	print(random.choice(list) + "  speakify is starting")
-
-	time.sleep(3)
-
-
-
-	os.system("clear") # Clear the terminal #
-
-
+	loading()
 
 	banner()
+
 	speak()
 
 
