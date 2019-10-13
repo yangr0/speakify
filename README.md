@@ -32,6 +32,10 @@ Email: iinc0gnit0@pm.me
 
 ## Updates
 
+### v1.4
+
+- Can catch more errors
+
 ### v1.2
 
 - First version of speakify
