@@ -32,6 +32,10 @@ Email: iinc0gnit0@pm.me
 
 ## Updates
 
+### v1.7
+
+- Accessable from anywhere
+
 ### v1.6
 
 - Took out white
