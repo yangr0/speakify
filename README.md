@@ -32,6 +32,12 @@ Email: iinc0gnit0@pm.me
 
 ## Updates
 
+### v1.6
+
+- Took out white
+
+- Renamed some variables
+
 ### v1.5
 
 - Slighty rearranged code
