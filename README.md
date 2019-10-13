@@ -32,6 +32,10 @@ Email: iinc0gnit0@pm.me
 
 ## Updates
 
+### v1.5
+
+- Slighty rearranged code
+
 ### v1.4
 
 - Can catch more errors
