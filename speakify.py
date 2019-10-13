@@ -48,7 +48,7 @@ blue = "\u001b[34;1m"
 
 white = "\u001b[37;1m"
 
-list = ["\u001b[31;1m", "\u001b[32;1m", "\u001b[36;1m", "\u001b[33;1m", "\u001b[35;1m", "\u001b[34;1m", "\u001b[37;1m"] # List of colors to chose from #
+list = [red, green, cyan, yellow, magenta, blue] # List of colors to chose from #
 
 
 
@@ -158,7 +158,7 @@ def banner():
 	time.sleep(0.1)
 	print(random.choice(list) + "                                             888")
 	time.sleep(0.1)
-	print(random.choice(list) + "                                         888888" + red + "                                v1.5")
+	print(random.choice(list) + "                                         888888" + red + "                                v1.6")
 	time.sleep(0.1)
 	print("\n")
 	print(random.choice(list) + "                                     Created by: inc0gnit0")
