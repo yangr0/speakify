@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 # Created by inc0gnit0
 
