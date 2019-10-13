@@ -18,7 +18,7 @@ speakify is a speech to text program
 
 ## Usage
 
-`python3 speakify.py` or `speakify.py`
+You can use this commmand from any path: `speakify`
 
 ## Credits
 
