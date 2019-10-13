@@ -36,6 +36,8 @@ Email: iinc0gnit0@pm.me
 
 - Slighty rearranged code
 
+- Added audio test file
+
 ### v1.4
 
 - Can catch more errors
