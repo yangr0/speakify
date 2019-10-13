@@ -259,7 +259,7 @@ except KeyboardInterrupt: # Catch KeyboardInterruption errors #
 
 	exit(1)
 
-except FileNotFoundError:
+except FileNotFoundError: # Catch FileNotFoundError #
 
 	print("\n")
 
