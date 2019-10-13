@@ -114,7 +114,7 @@ def banner():
 	time.sleep(0.1)
 	print(random.choice(list) + "                                             888")
 	time.sleep(0.1)
-	print(random.choice(list) + "                                         888888" + red + "                                v1.2")
+	print(random.choice(list) + "                                         888888" + red + "                                v1.4")
 	time.sleep(0.1)
 	print("\n")
 	print(random.choice(list) + "                                     Created by: inc0gnit0")
@@ -167,6 +167,12 @@ def speak():
 
 		print(random.choice(list) + "=============================================================================================")
 
+		print("\n")
+
+		print(green + "                                                Done!")
+
+		exit(0)
+
 	output()
 
 
@@ -218,6 +224,7 @@ def main():
 	os.system("clear") # Clear the terminal #
 
 
+
 	banner()
 	speak()
 
@@ -246,5 +253,17 @@ except KeyboardInterrupt: # Catch KeyboardInterruption errors #
 	time.sleep(3)
 
 	os.system("clear")
+
+	exit(1)
+
+except FileNotFoundError:
+
+	print("\n")
+
+	print(red + "  An error occured!!")
+
+	print("\n")
+
+	print("  Please make sure you followed the directions and typed everything right! \033[0m")
 
 	exit(1)
