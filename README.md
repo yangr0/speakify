@@ -4,7 +4,7 @@ speakify is a speech to text program
 
 ## Requirements
 
-- Linux/Windows/Mac
+- Linux / Windows / Mac
 
 - Python 3+
 
