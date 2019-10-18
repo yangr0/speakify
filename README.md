@@ -32,6 +32,10 @@ Email: iinc0gnit0@pm.me
 
 ## Updates
 
+### v1.8
+
+- Fixed tiny bug
+
 ### v1.7
 
 - Accessable from anywhere
